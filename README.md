@@ -24,3 +24,7 @@ A pasta "libraries" contem as bibliotecas externas utilizadas em formato .zip.
 
 <H3>Observação:</H3>
 >   Os módulos bluetooth precisam estar configurados, sendo o HC-05 trabalhando como master e o HC-06 como slave.
+
+<H3>Exemplo para teste:</H3>
+
+![alt text](example.png)
